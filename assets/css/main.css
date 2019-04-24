@@ -884,8 +884,8 @@
 		max-width: 100%;
 		opacity: 0.95;
 		position: relative;
-		text-align: center;
-		
+		text-align: left;
+		width: 32em;
 	}
 
 		#main .avatar {
